@@ -4,11 +4,7 @@ A React application built for Task 5 of the FlexiSAF Frontend Internship.
 
 ## Live Demo
 
-Add your Vercel deployment link after deployment.
-
-```txt
-https://your-vercel-link.vercel.app
-```
+https://react-hooks-dashboard.vercel.app/
 
 ## Project Overview
 
